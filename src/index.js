@@ -7,7 +7,6 @@ const transforms = [
   'background',
   'border',
   'borderColor',
-  'borderRadius',
   'borderWidth',
   'flex',
   'flexFlow',
